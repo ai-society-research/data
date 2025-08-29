@@ -1,1 +1,2 @@
 data/social_data_ai.jsonl filter=lfs diff=lfs merge=lfs -text
+data/tg_channels_ai_with_gender.csv filter=lfs diff=lfs merge=lfs -text
